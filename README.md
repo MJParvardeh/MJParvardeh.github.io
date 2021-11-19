@@ -1,2 +1,2 @@
 # MJParvardeh.github.io
-my github profile
+My Github profile
